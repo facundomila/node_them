@@ -1,0 +1,25 @@
+{
+  "name": "node_theme",
+  "version": "1.0.0",
+  "description": "Web site project using node + sass + javascript frameworks + gulp (automation task) + firebase.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facundomila/node_theme.git"
+  },
+  "keywords": [
+    "Node",
+    "Sass",
+    "Gulp",
+    "JS"
+  ],
+  "author": "Facundo Mila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facundomila/node_theme/issues"
+  },
+  "homepage": "https://github.com/facundomila/node_theme#readme",
+  "dependencies": {
+    "test": "test"
+  }
+}
