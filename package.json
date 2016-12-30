@@ -19,7 +19,30 @@
     "url": "https://github.com/facundomila/node_theme/issues"
   },
   "homepage": "https://github.com/facundomila/node_theme#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-react": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-wrapper": "^1.0.0",
+    "jshint": "^2.9.4"
+  },
   "dependencies": {
-    "test": "test"
+    "browserify": "^13.1.1",
+    "material-ui": "^0.16.6",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "react-tap-event-plugin": "^1.0.0 || ^2.0.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.8.0"
   }
 }
